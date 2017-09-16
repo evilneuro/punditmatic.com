@@ -96,30 +96,30 @@ function showpunditry($punditrytype) {
 <div class="row"><div class="span12">
 <p>
 <?php $rivalcompany = showpunditry("rivalcompany") ?>
-Apple's new <?php echo showpunditry("product") ?> is a modest upgrade that has 
-many who were hoping for more disappointed. Sure, the Apple fanbois will 
-buy it, but Apple has failed to keep up with the state of the 
-<?php echo showpunditry("market") ?> market. For example, just the other day 
-at <?php echo showpunditry("conference") ?>, <?php echo $rivalcompany ?> 
-unveiled a <?php echo showpunditry("newproduct") ?> with a 
-<?php echo showpunditry("amazingfeature1") ?>-inch screen and 
-<?php echo showpunditry("amazingfeature2") ?> with 
-<?php echo showpunditry("amazingfeature3") ?> that come flying out of the sides 
-and <?php echo showpunditry("amazingfeature4a") ?> with 
-<?php echo showpunditry("amazingfeature4b") ?> and 
-<?php echo showpunditry("amazingfeature5") ?> the 
-<?php echo showpunditry("amazingfeature6") ?> by 
-<?php echo showpunditry("amazingfeature6adjective") ?>ing the 
-<?php echo showpunditry("amazingfeature7") ?> with 
-<?php echo showpunditry("amazingfeature8") ?>s. And it has a stylus. While it 
-doesn't get good battery life, Apple will have to respond to this threat as 
-<?php echo showpunditry("analysts") ?> analysts projects 
+Apple's new <?php echo showpunditry("product") ?> is a modest upgrade that has
+many who were hoping for more disappointed. Sure, the Apple fanbois will
+buy it, but Apple has failed to keep up with the state of the
+<?php echo showpunditry("market") ?> market. For example, just the other day
+at <?php echo showpunditry("conference") ?>, <?php echo $rivalcompany ?>
+unveiled a <?php echo showpunditry("newproduct") ?> with a
+<?php echo showpunditry("amazingfeature1") ?>-inch screen and
+<?php echo showpunditry("amazingfeature2") ?> with
+<?php echo showpunditry("amazingfeature3") ?> that come flying out of the sides
+and <?php echo showpunditry("amazingfeature4a") ?> with
+<?php echo showpunditry("amazingfeature4b") ?> and
+<?php echo showpunditry("amazingfeature5") ?> the
+<?php echo showpunditry("amazingfeature6") ?> by
+<?php echo showpunditry("amazingfeature6adjective") ?>ing the
+<?php echo showpunditry("amazingfeature7") ?> with
+<?php echo showpunditry("amazingfeature8") ?>s. And it has a stylus. While it
+doesn't get good battery life, Apple will have to respond to this threat as
+<?php echo showpunditry("analysts") ?> analysts projects
 <?php echo $rivalcompany ?> will sell literally dozens of these devices.
 </p>
 </div></div>
 <div class="row"><div class="span9">
-<p><small>Made by <a href="http://twitter.com/evilneuro">neuro</a>. Thanks to 
-<a href="http://www.macalope.com/">The Macalope</a>'s sharp and pointy antlers
+<p><small>Made in <span class="flag-icon flag-icon-gb-sct flag-icon-squared" title="Scotland"></span> with <font color="#f00"><i class="fa fa-heart"></i></font> by <a href="https://wpa.io/">neuro</a>.
+Thanks to <a href="http://www.macalope.com/">The Macalope</a>'s sharp and pointy antlers
 for the <a href="http://www.macworld.com/article/1165804/the_macalope_weekly_new_ipad_highs_new_coverage_lows.html">idea</a>.</small></p>
 </div><div class="span3" style="text-align: right">
 <a class="btn btn-primary" href="/">Generate a new opinion</a>
